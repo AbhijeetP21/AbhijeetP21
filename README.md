@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source**
 
-- 📫 How to reach me **abhijeetpachpute94@gmail.com**
+- 📫 How to reach me **abhijeetsp21@gmail.com**
 
 - ⚡ Fun fact **Why do programmers prefer dark mode? Because light attracts bugs!**
 
