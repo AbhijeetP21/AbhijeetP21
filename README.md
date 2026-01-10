@@ -15,7 +15,7 @@ I’ve worked across software engineering, applied AI, and security — building
 ## What I’m working on
 - End-to-end projects with production-style engineering: testing, CI, observability, and documentation
 - Deepening fundamentals in system design, concurrency, databases, and performance tuning
-- Open to Software Engineering internships (Summer 2025) and 2026 new grad roles (US)
+- Open to Software Engineering and related roles 2026 new grad roles (US)
 
 ## Experience snapshot
 - Software Engineering internships building backend services and production features
