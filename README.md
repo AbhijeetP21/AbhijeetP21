@@ -1,37 +1,41 @@
-# Abhijeet Pachpute
+# Abhijeet S Pachpute
 
-CS Master's student at the University of Utah (May 2026). I build backend and full stack systems with a focus on reliability, clean architecture, and measurable impact.
+Software Engineer with strong fundamentals in backend systems, data structures, and system design, with hands-on experience building reliable, production-grade software and applied AI systems.
 
-- Interests: distributed systems, backend engineering, ML systems, developer tooling
-- Currently: shipping projects + improving system design fundamentals
-- Open to: Software Engineering internships (Summer 2025) and 2026 new grad roles (US)
+MS in Computer Science @ University of Utah (May 2026).
+
+I’ve worked across software engineering, applied AI, and security — building backend and full stack systems with a focus on clean architecture, performance, and measurable impact. I use modern AI tools to enhance real systems, not to ship demos.
+
+## Focus
+- Backend and distributed systems
+- System design, scalability, and performance engineering
+- Applied AI and ML systems (agent-based workflows, RAG, inference pipelines, evaluation)
+- Writing clean, reliable, well-documented code
 
 ## What I’m working on
-- Building and polishing end to end projects with production style engineering: testing, CI, observability, and docs
-- Deepening fundamentals: systems design, concurrency, databases, and performance tuning
+- End-to-end projects with production-style engineering: testing, CI, observability, and documentation
+- Deepening fundamentals in system design, concurrency, databases, and performance tuning
+- Open to Software Engineering internships (Summer 2025) and 2026 new grad roles (US)
 
-## Featured projects
-Pick 3 to 5 repos you want people to click. Add short, concrete outcomes.
+## Experience snapshot
+- Software Engineering internships building backend services and production features
+- AI engineering experience shipping GenAI tools used by real stakeholders
+- Strong grounding in algorithms, operating systems, databases, and security
 
-- **Dinodash**: one line on what it does + who it’s for  
-  Tech: X, Y, Z • Highlights: performance, reliability, scale, etc.  
-- **Project Name**: one line on what it does  
-  Tech: X, Y, Z • Highlights: what you measured or improved  
-- **Project Name**: one line on what it does  
-  Tech: X, Y, Z • Highlights: tests, CI, deployment, docs
+## Featured work
+Pinned repositories highlight projects that emphasize:
+- End-to-end system design
+- Measurable performance or reliability improvements
+- Practical use of AI in real workflows
 
-## Skills
+## Tech
 **Languages:** Python, Java, C/C++, JavaScript/TypeScript, SQL  
-**Backend:** REST APIs, auth, caching, queues, background jobs, testing  
-**Web:** React, Node.js, HTML/CSS  
-**Data/ML:** pandas, PyTorch, model evaluation pipelines  
-**Tools:** Git, Docker, Linux, AWS, CI/CD
+**Backend:** REST APIs, authentication, databases, caching, concurrency, testing  
+**Web:** React.js, Node.js, Next.js, HTML/CSS, Tailwind  
+**Infra:** Docker, AWS, Linux, CI/CD  
+**ML:** PyTorch, CNNs, embeddings, retrieval, evaluation pipelines
 
-## GitHub stats
-![](https://github-readme-stats.vercel.app/api?username=AbhijeetP21&show_icons=true&hide_title=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=AbhijeetP21)
-
-## Contact
-- Email: abhijeetsp21@gmail.com 
-- LinkedIn: https://www.linkedin.com/in/abhijeet-pachpute
-- Portfolio: https://abhijeetpachpute.com
+## Links
+- Portfolio: https://abhijeetpachpute.com  
+- LinkedIn: https://www.linkedin.com/in/abhijeet-pachpute  
+- Email: abhijeetsp21@gmail.com
